@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "heap_sort.h": "c",
+        "time.h": "c"
+    }
+}
